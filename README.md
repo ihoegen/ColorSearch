@@ -1,3 +1,5 @@
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="Paypal" width=64/>](https://paypal.me/ihoegen/5)
+
 # ColorSearch
 A Chrome extension created so when you search a color code, it shows up as a search card
 
