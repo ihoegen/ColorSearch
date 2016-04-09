@@ -1,13 +1,13 @@
 {
   "manifest_version": 2,
   "name": "Color Search",
-"description": "Adds a Google search card for when a color is searced .Great for designers",
-  "version": "1.0.0",
+"description": "Adds a Google search card for when a color is searched. ",
+  "version": "1.0.1",
 "icons": { "128":"icon.png",
 		"48":"icon.png","256":"icon.png"},
   "content_scripts": [
   {
-    "matches": ["http://localhost:*/*","http://localhost/*","http://127.0.0.1/*", "https://www.google.com/*"],
+    "matches": ["https://www.google.com/*"],
     "js": ["main.js"]
   }
 ]
